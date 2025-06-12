@@ -1,9 +1,4 @@
 ---
-title: what's up my fellow ketchups
-description: this is reserved for true ketchupers
+title: whatsup ketchup
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-testing
+whatsup mustard
