@@ -1,4 +1,2 @@
----
-title: whatsup ketchup
----
-whatsup mustard
+This is a test.
+How would the title look?
